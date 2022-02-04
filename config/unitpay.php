@@ -57,7 +57,6 @@ return [
     //              http://help.unitpay.money/article/67-ip-addresses
     'allowed_ips' => [
         '31.186.100.49',
-        '178.132.203.105',
         '52.29.152.23',
         '52.19.56.234',
     ],
